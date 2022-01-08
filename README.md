@@ -1,4 +1,4 @@
-### Hi there, I'm SUMAN KUMAR [website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there, I'm SUMAN  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Website](https://img.shields.io/website?label=suman.com&style=for-the-badge&url=https%3A%2F%2Fhttps://suman-kumar23.github.io/sumankumar/)](https://suman-kumar23.github.io/sumankumar/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Suman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iSumanKM)
@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate in the community.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
