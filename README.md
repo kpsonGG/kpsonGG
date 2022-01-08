@@ -1,4 +1,4 @@
-### Hi there, I'm SUMAN KUMAR [website] 👋 
+### Hi there, I'm SUMAN KUMAR [website] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 [![Website](https://img.shields.io/website?label=suman.com&style=for-the-badge&url=https%3A%2F%2Fhttps://suman-kumar23.github.io/sumankumar/)](https://suman-kumar23.github.io/sumankumar/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Suman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iSumanKM)
