@@ -16,12 +16,9 @@
 [<img align="left" alt="suman-kumar23.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 [<img align="left" alt="Suman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Suman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Suman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
 [website]: https://suman-kumar23.github.io/sumankumar/
 [twitter]: https://twitter.com/sumanku95472357
-[instagram]: https://instagram.com/kp__suman
 [linkedin]: https://linkedin.com/in/sumanop
-
