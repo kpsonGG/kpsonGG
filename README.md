@@ -1,9 +1,5 @@
-### Hi there, I'm SUMAN  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+Just a guy looking to make my developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
 
-[![Website](https://img.shields.io/website?label=suman.com&style=for-the-badge&url=https%3A%2F%2Fhttps://suman-kumar23.github.io/sumankumar/)](https://suman-kumar23.github.io/sumankumar/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Suman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iSumanKM)
-
-## I'm a Learner, Open-Source Enthusiast , Developer, and Teacher!!
 
 
 - 🌱 I’m currently learning React, Express, GraphQL
