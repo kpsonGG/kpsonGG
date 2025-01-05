@@ -2,9 +2,8 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 
 
-- 🌱 I’m currently learning React, Express, GraphQL
-- 👯 I’m looking to collaborate in the community.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Go , Compilers
+- 🥅 2025 Goals: 
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
