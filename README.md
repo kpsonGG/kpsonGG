@@ -2,8 +2,8 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 
 
-- 🌱 I’m currently learning Go , Compilers
-- 🥅 2025 Goals: 
+- 🌱 I’m currently learning Go , Compilers, Distributed systems.
+- 🥅 2025 Goals: gRPC , k8s, 
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
